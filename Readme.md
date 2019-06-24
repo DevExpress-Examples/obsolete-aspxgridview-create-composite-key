@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # OBSOLETE ASPxGridView - How to create a composite key
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e50)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to use the unbound column feature to construct a composite key field.</p><p><strong>NOTE:</strong> Starting from v2009 vol 1, the ASPxGridView supports composite keys out-of-the-box: <a href="https://www.devexpress.com/Support/Center/p/AS16551">Support for the composite key is required</a><br />
